@@ -11,4 +11,7 @@
 var test = "Test";
 ```
 
+- [x] Add headers
+- [x] Add image
+- [x] Add code block
 
